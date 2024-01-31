@@ -1,5 +1,7 @@
 # Canada Airlines Dashboard
 
+__You can check the project report from [HERE](https://docs.google.com/document/d/1ql9yPDCar6hDDl_IM7IiqYd5cP9b2kvY_gbCFkbyfIk/edit?usp=sharing)__
+
 Data Insights for __Strategic Decisions__
 This repository houses the code and design documentation for a comprehensive dashboard aimed at empowering Canada Airlines executives with key data insights for optimizing passenger experience and performance.
 
